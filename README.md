@@ -23,5 +23,5 @@ Assim, você pode rodar o projeto usando as suas próprias credenciais e banco l
 
 ---
 
-PROJETO FEITO POR: YAN LUIS, TULIO REIS, WESLEY BLAYNNERM E MARCOS VINICIUS.
+PROJETO FEITO POR: YAN LUIS, TULIO REIS, WESLEY BLAYNNER E MARCOS VINICIUS.
 
