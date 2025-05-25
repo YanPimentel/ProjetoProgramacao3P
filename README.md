@@ -2,7 +2,8 @@
 
 ## Sobre
 
-Este projeto é uma aplicação Spring Boot, com MYSQL. 
+Este projeto é uma aplicação Spring Boot, com MYSQL.
+Rode a aplicação, e no terminal o menu interativo será exibido.
 
 ## Configuração do Banco de Dados
 
