@@ -17,7 +17,7 @@ Este arquivo serve como um modelo para configuração do banco de dados.
 - No arquivo `application.properties`, substitua os valores de:
   - `spring.datasource.url` (A URL JÁ TA COM O NOME DO BANCO ( db_projeto_prog )
   - `spring.datasource.username` (SEU usuário do banco)
-  - `spring.datasource.password` (SUA senha do banco do senhor)
+  - `spring.datasource.password` (SUA senha do banco)
 
 Assim, você pode rodar o projeto usando as suas próprias credenciais e banco local.
 
