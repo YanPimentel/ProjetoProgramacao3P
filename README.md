@@ -7,7 +7,7 @@ Rode a aplicação, e no terminal o menu interativo será exibido.
 
 ## Configuração do Banco de Dados
 
-No projeto, o senhor vai encontrar o arquivo `application-examples.properties`.  
+No projeto, você vai encontrar o arquivo `application-examples.properties`.  
 
 Este arquivo serve como um modelo para configuração do banco de dados.
 
